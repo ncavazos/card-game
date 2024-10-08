@@ -3,6 +3,10 @@
       --card-height:220px;
 }
 
+body {
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
+
 .card-container {
   margin-top:30px;
   position: relative;
